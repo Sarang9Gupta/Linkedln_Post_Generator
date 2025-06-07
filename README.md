@@ -6,7 +6,7 @@ This is an AI-powered LinkedIn Post Generator built with [LangChain](https://www
 
 ## 📸 Demo
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Insert+Streamlit+App+Screenshot+Here)
+![Screenshot from 2025-06-07 17-20-33](https://github.com/user-attachments/assets/82677423-4476-45fa-a6dc-d418862ffa68)
 
 ---
 
