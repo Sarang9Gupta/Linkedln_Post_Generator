@@ -1,4 +1,4 @@
-# 🚀 LinkedIn Post Generator
+# 🚀 Linkedln Post Generator
 
 This is an AI-powered LinkedIn Post Generator built with [LangChain](https://www.langchain.com/), [Streamlit](https://streamlit.io/), and [GROQ](https://groq.com/)'s blazing-fast LLaMA-3 LLM. It helps you generate high-quality, context-aware LinkedIn posts using few-shot learning from curated examples.
 
@@ -42,8 +42,8 @@ This is an AI-powered LinkedIn Post Generator built with [LangChain](https://www
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/Sarang9Gupta/LinkedIn_Post_Generator.git
-cd LinkedIn_Post_Generator
+git clone https://github.com/Sarang9Gupta/Linkedln_Post_Generator.git
+cd Linkedln_Post_Generator
 ```
 
 2. **Create a virtual environment**
