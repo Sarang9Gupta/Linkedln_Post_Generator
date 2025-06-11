@@ -42,7 +42,7 @@ This is an AI-powered LinkedIn Post Generator built with [LangChain](https://www
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/Sarang9Gupta/Linkedln_Post_Generator.git
+git clone https://github.com/Sarang9Gupta/LinkedIn_Post_Generator.git
 cd LinkedIn_Post_Generator
 ```
 
